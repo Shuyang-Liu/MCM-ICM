@@ -1,3 +1,4 @@
 # MCM-ICM
 Some references about MCM
-\nMainly about Latex and  paper reviews
+
+Mainly about Latex and  paper reviews

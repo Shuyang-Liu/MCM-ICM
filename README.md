@@ -1,2 +1,3 @@
 # MCM-ICM
-Some references about latex
+Some references about MCM
+Mainly about Latex and some paper reviews
